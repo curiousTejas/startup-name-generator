@@ -6,4 +6,4 @@ This app is an infinite list of two concatenated English words that might suit a
 
 ### Resultant App:
 
-<img src="recording.gif" height = 30% width = 30%>
+<img src="recording.gif" height = 50% width = 50%>
